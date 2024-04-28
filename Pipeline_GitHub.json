@@ -7,23 +7,23 @@
         "BranchName": {
             "Description": "GitHub branch name",
             "Type": "String",
-            "Default": "master"
+            "Default": "main"
         },
         "RepositoryName": {
             "Description": "GitHub repository name",
             "Type": "String",
-            "Default": "myrepo"
+            "Default": "apprunner-python-app"
         },
         "ECRRepoName": {
-            "Description": "Name of ECR to be created",
+            "Description": "RC_ECR",
             "Type": "String"
         },
         "GitHubOAthToken": {
-            "Description": "GitHub OAuth Token",
+            "Description": "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",
             "Type": "String"
         },
         "RepoOwner": {
-            "Description": "GitHub Repo Owner",
+            "Description": "hellothere",
             "Type": "String"
         }
     },
